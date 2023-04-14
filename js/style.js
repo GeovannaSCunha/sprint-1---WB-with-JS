@@ -68,4 +68,3 @@ b6Element.addEventListener("click", function(){
     alert("IBM Brasil - International Business Machines Projeto de Mapeamento em São paulo.") 
     b6Element.style.color = "brown"
 })
-
